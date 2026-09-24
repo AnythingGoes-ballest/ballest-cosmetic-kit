@@ -15,7 +15,7 @@ Cosmetic Kit adds nothing by itself. Install a plugin that uses it, such as
 
 ## Install
 
-In the game: footer **plugins** > **open** > **browse** > Cosmetic Kit > **install**. Plugins that need it install it
+In the game: footer **plugins** > **browse** > Cosmetic Kit > **install**. Plugins that need it install it
 for you. Needs the plugin manager host 0.8.0 or newer.
 
 ## Making cosmetics
