@@ -1,0 +1,9 @@
+[meta]
+name = "Cosmetic Kit"
+version = "0.1.0"
+author = "AnythingGoes"
+description = "Lets plugins add custom balls, hats and goal explosions to a custom section of the Customize page, and remembers which ones you wear."
+min_host = "0.8.0"
+
+[script]
+files = ["main.as"]
