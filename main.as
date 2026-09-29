@@ -12,7 +12,9 @@
 //
 // A model is a text file of simple shapes (spheres, boxes, cylinders, cones, capsules, discs, rings, saw blades, cups)
 // with plastic, metal or glowing colours, in groups that can spin: parts with depth or movement on a ball, or a whole
-// hat. The format is in the host's documentation (Cosmetics API) and Example Cosmetics has three.
+// hat. It can also place 3D model files as Blender exports them (glTF .glb/.gltf, or .obj), with their colours,
+// textures and animations; or a model can be such a file on its own (host 0.16.0 and newer). The format is in the
+// host's documentation (custom cosmetics guide), and Example Cosmetics has examples of both.
 //
 // Custom cosmetics are worn on the player's own ball only: the game's save (and what other players are told) keeps
 // the last game cosmetic chosen, so removing a plugin never leaves the profile pointing at something that is gone.

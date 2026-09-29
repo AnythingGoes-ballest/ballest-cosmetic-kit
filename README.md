@@ -30,7 +30,8 @@ import bool AddBfx(const string &in, const string &in, const string &in, double,
 
 `main.as` describes each argument, and the plugin manager's
 [custom cosmetics guide](https://anythinggoes-ballest.github.io/ballest-plugin-manager/guides/cosmetics/) covers ball
-textures and models (3D parts with depth or movement, built from simple shapes).
+textures and models: 3D parts with depth or movement, built from simple shapes, and 3D model files from Blender or
+other tools (glTF `.glb`/`.gltf` or `.obj`, with their colours, textures and animations; host 0.16.0 and newer).
 
 ## License
 
